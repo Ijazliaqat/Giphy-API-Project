@@ -1,0 +1,21 @@
+/*------------
+ Header Section
+ -------------*/
+header a {
+  margin-left: 40px;
+}
+
+.container {
+  background-color: black;
+}
+
+header {
+  /*.logo{
+        font-size: 40px;
+    }*/
+}
+
+header .navitem {
+  font-size: 20px;
+}
+/*# sourceMappingURL=main.css.map */
