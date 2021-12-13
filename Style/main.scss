@@ -19,3 +19,26 @@ header{
         font-size: 20px;
     }
 }
+hr{
+    background-color: white;
+    width: 100%;
+    height: 2px;
+}
+
+input {
+    width: 80%;
+    height: 10%;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+}
+button{
+    height: 10%;
+    width: auto;
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 50px;
+    background: linear-gradient(45deg, rgb(153, 51, 255) 0%, rgb(255, 102, 102) 100%);
+}
+button i{
+    font-size: 35px;
+    padding: 5px;
+}
