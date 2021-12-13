@@ -53,3 +53,15 @@ img{
     margin-bottom: 20px;
     width: 350px;
 }
+
+@media only screen and (max-width: 320px) {
+    .search-bar {
+      width: 100%;
+      display: inline-flex;
+      justify-content: space-between;
+    }
+    img{
+      width: 250px;
+      height: auto;
+    }
+  }

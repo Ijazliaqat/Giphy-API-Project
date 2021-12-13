@@ -54,4 +54,20 @@ img {
   margin-bottom: 20px;
   width: 350px;
 }
+
+@media only screen and (max-width: 320px) {
+  .search-bar {
+    width: 100%;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  img {
+    width: 250px;
+    height: auto;
+  }
+}
 /*# sourceMappingURL=main.css.map */
