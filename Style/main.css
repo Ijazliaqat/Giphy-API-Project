@@ -44,4 +44,14 @@ button i {
   font-size: 35px;
   padding: 5px;
 }
+
+.search-bar {
+  padding: 10%;
+}
+
+img {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  width: 350px;
+}
 /*# sourceMappingURL=main.css.map */
